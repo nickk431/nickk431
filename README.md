@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm a dedicated software developer from Michigan with a strong interest in AI, game development, and cybersecurity. I enjoy working on unique and creative projects that challenge me to think outside the box. My goal is to build innovative and practical solutions that make a difference.</h3>
+<h3 align="left">I'm a dedicated software engineer from Michigan with a strong interest in Machine Learning, Game Development, and Cybersecurity. I enjoy working on unique and creative projects that challenge me to think outside the box. My goal is to build innovative and practical solutions that make a difference.</h3>
 
 ###
 
